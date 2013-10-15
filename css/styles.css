@@ -1,5 +1,47 @@
+
+
 .container_12 {
 	background : orange ;	
+}
+
+/*LOGO*/
+#logo {
+	background : #3C6;	
+}
+
+/*Co. Name*/
+
+#coname {
+	background : #F0F;	
+}
+
+/*Navigation*/
+#nav {
+	background : #0F9;
+}
+
+/*Aside*/
+
+#aside {
+background : #FC3;	
+}
+
+/*Main*/
+
+#main {
+background : #123456;	
+}
+
+/*LOGO*/
+img {
+	border : 10px solid black;
+	padding : 10px;	
+}
+
+/*Aside2*/
+
+#aside-2 {
+background : #142365;	
 }
 
 
